@@ -256,7 +256,7 @@ for i in nums:
     else:
         print("Число простое")
 
-num = 4
+num = 3
 print("\n\nПроверка числа {} на простоту по методу Соловея-Штрассена: {}".format(num, SolovayStrassen(num)))
-print("Проверка числа {} на простоту по методу Рабина-Миллера: {}".format(num, Lehmann(num)))
+print("Проверка числа {} на простоту по методу Леманна: {}".format(num, Lehmann(num)))
 print("Проверка числа {} на простоту по методу Рабина-Миллера: {}".format(num, miller_rabin(num)))
