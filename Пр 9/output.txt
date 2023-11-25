@@ -1,0 +1,12 @@
+Исходный текст:
+aaaabbbbccccdddd
+
+Блоки Гаммы:
+64609208
+34872464
+
+Зашифрованный текст: 
+gegakdbffgkjfhji
+
+Расшифрованный текст: 
+aaaabbbbccccdddd
